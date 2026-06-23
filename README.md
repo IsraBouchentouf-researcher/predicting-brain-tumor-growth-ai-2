@@ -1,7 +1,7 @@
 # Phase 2: Deep Learning Transition via Specialized U-Net Architecture
 
 **Author:** Isra Bouchentouf  
-**Context:** Independent Neuro-Technology Research | Next Steps  
+**Context:** Independent Neuro-Technology Research | Next Steps  | JUN 2026
 
 ## Objective & The Solution
 To bypass the human anatomical registration issues and cross-scanner parameters (T1/T2 relaxation time mismatches) documented in Phase 1, this repository contains the implementation of a specialized **U-Net Convolutional Neural Network (CNN) built on PyTorch**. 
